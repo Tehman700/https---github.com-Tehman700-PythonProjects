@@ -68,4 +68,4 @@ class Scoreboard(Turtle):
         self.update_scoreboard()
 
 
-        
+
