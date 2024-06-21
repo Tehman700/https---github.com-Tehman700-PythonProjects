@@ -66,3 +66,6 @@ class Scoreboard(Turtle):
             self.highscore = self.score
             self.save_highscore(self.highscore)
         self.update_scoreboard()
+
+
+        
